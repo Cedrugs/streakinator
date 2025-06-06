@@ -2,7 +2,6 @@
 
 **streakinator** is a simple, interactive Go utility that creates backdated, empty Git commits to populate your GitHub contribution graph.
 
----
 
 ## ⚠️ Warning
 
@@ -18,7 +17,6 @@ Do **not** use it to:
 > Misusing this tool is unethical and may harm your professional or academic reputation.  
 By running streakinator, you acknowledge and accept full responsibility for its use.
 
----
 
 ## Features
 
@@ -31,15 +29,12 @@ By running streakinator, you acknowledge and accept full responsibility for its 
 - Custom commit message support  
 - Push reminder after commit creation  
 
----
-
 ## Prerequisites
 
 - **Go 1.16+**
 - **Git** installed
 - OS permissions to write files and run git commands
 
----
 
 ## Installation
 
@@ -56,8 +51,6 @@ mv streakinator /usr/local/bin/
 ```
 
 Windows users: move `streakinator.exe` into a folder in your `%PATH%`.
-
----
 
 ## Usage
 
@@ -80,7 +73,6 @@ After it's done, you’ll be told how to push:
 git push origin <branch>
 ```
 
----
 
 ## License
 
