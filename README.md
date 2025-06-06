@@ -41,7 +41,7 @@ By running streakinator, you acknowledge and accept full responsibility for its 
 ```bash
 git clone https://github.com/yourusername/streakinator.git
 cd streakinator
-go build -o streakinator ./cmd/streakinator
+go build -o streakinator.exe ./cmd/streakinator
 ```
 
 (Optional) move the binary to a folder in your `$PATH`:
