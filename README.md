@@ -1,6 +1,6 @@
-# Streakinator
+# streakinator
 
-**Streakinator** is a simple, interactive Go utility that creates backdated, empty Git commits to populate your GitHub contribution graph.
+**streakinator** is a simple, interactive Go utility that creates backdated, empty Git commits to populate your GitHub contribution graph.
 
 ---
 
@@ -16,7 +16,7 @@ Do **not** use it to:
 - Commit academic fraud
 
 > Misusing this tool is unethical and may harm your professional or academic reputation.  
-By running Streakinator, you acknowledge and accept full responsibility for its use.
+By running streakinator, you acknowledge and accept full responsibility for its use.
 
 ---
 
