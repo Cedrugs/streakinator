@@ -38,10 +38,18 @@ By running streakinator, you acknowledge and accept full responsibility for its 
 
 ## Installation
 
+### Windows
 ```bash
-git clone https://github.com/yourusername/streakinator.git
+git clone https://github.com/Cedrugs/streakinator.git
 cd streakinator
 go build -o streakinator.exe ./cmd/streakinator
+```
+
+### MacOS
+```bash
+git clone https://github.com/Cedrugs/streakinator.git
+cd streakinator
+go build -o streakinator ./cmd/streakinator
 ```
 
 (Optional) move the binary to a folder in your `$PATH`:
@@ -58,6 +66,10 @@ Run:
 
 ```bash
 ./streakinator
+```
+### or
+```bash
+./streakinator.exe
 ```
 
 The tool will walk you through:
